@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @madeline-zelenka
+- 👋 Hi, I’m madeline
 - 👀 I’m interested in ... Cybersecurity and Reverse Engineering
 - 🌱 I’m currently learning ... Rust and Parrot OS
 - 💞️ I’m looking to collaborate on ... Projects made for beginners
